@@ -1,0 +1,2 @@
+# good
+Monolith application template
